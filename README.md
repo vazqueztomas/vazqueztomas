@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; Python   
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🔧 &nbsp; Visual Studio code | Git | Github.
+- 🔧 &nbsp; Visual Studio Code | Git | Github.
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 <br>
