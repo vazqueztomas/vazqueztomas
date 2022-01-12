@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Actualmente estoy capacitandome en diseño UX / UI 
-- 🤔 &nbsp; Me gusta explorar tecnologías nuevas, y capacitarme constantemente.
-- 🎓 &nbsp; Estudio Lic en Sistemas.
-- 💼 &nbsp; Tengo conocimientos en desarrollo web, del lado del cliente.
-- ✍️ &nbsp; Jugar al futbol y escuchar música son de mis hobbies preferidos.
-- ☕ &nbsp; Siempre, siempre con un mate al lado :)
+- 🔭 &nbsp; I am currently training in ux ui design
+- 🤔 &nbsp; I love explore new technologies, and constantly train me.
+- 🎓 &nbsp; I'm study Lic en Sistemas in Lujan University.
+- 💼 &nbsp; I have knowledge in web development, on the client side.
+- ✍️ &nbsp; Play football and listen music are my favourites hobbies.
+- ☕ &nbsp; Siempre, siempre con un mate al lado :) 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python   
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | ChakraUI
 - 🔧 &nbsp; Visual Studio Code | Git | Github.
 - 🖥 &nbsp; Photoshop | Figma
 
