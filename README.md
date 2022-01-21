@@ -19,31 +19,6 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vazquezcabj21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tomas Vazquez Github Stats">
-
-</br>
-
-<h2> hi! i'm Tomás 👋</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I am currently training in ux ui design
-- 🤔 &nbsp; I love explore new technologies, and constantly train me.
-- 🎓 &nbsp; I'm study Lic en Sistemas in Lujan University.
-- 💼 &nbsp; I have knowledge in web development, on the client side.
-- ✍️ &nbsp; Play football and listen music are my favourites hobbies.
-- ☕ &nbsp; Siempre, siempre con un mate al lado :) 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python   
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | ChakraUI
-- 🔧 &nbsp; Visual Studio Code | Git | Github.
-- 🖥 &nbsp; Photoshop | Figma
-
-<br>
-
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=vazquezcabj21&&show_icons=true&title_color=#1f619c&icon_color=bb2acf&text_color=daf7dc&bg_color=#1f619c%22' alt="Tomas Vazquez Github Stats">
 
 </br>
