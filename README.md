@@ -44,7 +44,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vazquezcabj21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515%22" alt="Tomas Vazquez Github Stats">
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=vazquezcabj21&&show_icons=true&title_color=#1f619c&icon_color=bb2acf&text_color=daf7dc&bg_color=#1f619c%22' alt="Tomas Vazquez Github Stats">
 
 </br>
 
