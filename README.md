@@ -3,19 +3,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I am currently training in ux ui design
+- 🔭 &nbsp; I am currently training in backend
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
 - 🎓 &nbsp; I'm study Lic en Sistemas in Lujan University.
-- 💼 &nbsp; I have knowledge in web development, on the client side.
+- 💼 &nbsp; I have knowledge in web development, particullary in frontend.
 - ✍️ &nbsp; Play football and listen music are my favourites hobbies.
 - ☕ &nbsp; Siempre, siempre con un mate al lado :) 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python   
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | ChakraUI
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Firebase
 - 🔧 &nbsp; Visual Studio Code | Git | Github.
-- 🖥 &nbsp; Photoshop | Figma
 
 <br>
 
