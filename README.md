@@ -16,8 +16,8 @@ Podrás ver mis trabajos en <a href = 'https://tomasvazquez.web.app'>mi portfoli
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Firebase | SQL   
-- 🌐 &nbsp; React | Chakra-UI | JavaScript | Solidity.
+- 🌐 &nbsp; React | JavaScript | Node Js | MongoDB.
+- 💻 &nbsp; Python | Firebase |   
 - 🔧 &nbsp; Visual Studio Code | Git | Github.
 
 <br>
