@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; React Developer
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
-- 🎓 &nbsp; I'm study Lic en Sistemas in Lujan University.
+- 🎓 &nbsp; I'm study Systems Information in Lujan University.
 - 💼 &nbsp; I have knowledge in web development, particullary in frontend.
 - ✍️ &nbsp; I like web3 - blockchain - smarts contracts.
 - ☕ &nbsp; Siempre, siempre con un mate al lado :) 
