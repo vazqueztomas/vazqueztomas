@@ -16,9 +16,9 @@ Podrás ver mis trabajos en <a href = 'https://tomasvazquez.web.app'>mi portfoli
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; React | JavaScript | Node Js | MongoDB.
-- 💻 &nbsp; Python | Firebase |   
-- 🔧 &nbsp; Visual Studio Code | Git | Github.
+- 🌐 &nbsp; React | JavaScript | Node Js | MongoDB | Express |
+- 💻 &nbsp; Python | Flask | Firebase | 
+- 🔧 &nbsp; Visual Studio Code | Git | Github |
 
 <br>
 
