@@ -16,8 +16,9 @@ Podrás ver mis trabajos en <a href = 'https://tomasvazquez.web.app'>mi portfoli
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; React | JavaScript | Typescript | Node Js | MongoDB | Express |
+- 🌐 &nbsp; React | JavaScript | Typescript | Node Js | Express | TailwindCSS | ChakraUI
 - 💻 &nbsp; Python | Flask | Firebase | 
+- 🗂️ &nbsp; SQL | MongoDB | PostgresSQL | MySQL 
 - 🔧 &nbsp; Visual Studio Code | Git | Github |
 
 <br>
