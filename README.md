@@ -6,7 +6,7 @@
 - 🔭 &nbsp; Software Developer / Software Engineer
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
 - 🎓 &nbsp; I'm study Systems Information in Lujan University.
-- 💼 &nbsp; I have knowledge in web development.
+- 💼 &nbsp; I have knowledge in web and scripting development.
 - ✍️ &nbsp; I like web3 - blockchain - smarts contracts.
 - ☕ &nbsp; Siempre, siempre con un mate al lado :) 
 
