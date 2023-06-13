@@ -6,8 +6,8 @@
 - 🔭 &nbsp; Software Developer / Software Engineer
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
 - 🎓 &nbsp; I'm study Systems Information in Lujan University.
-- 💼 &nbsp; I have knowledge in web and scripting development.
-- ✍️ &nbsp; I like web3 - blockchain - smarts contracts.
+- 💼 &nbsp; I taught myself web and scripting development.
+- ✍️ &nbsp; I'm focusing on enhancing backend skills.
 - ☕ &nbsp; Siempre, siempre con un mate al lado :) 
 
 You can check my works in <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
