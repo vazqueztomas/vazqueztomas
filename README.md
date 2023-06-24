@@ -12,8 +12,6 @@
 
 You can check my works in <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
 
-Podrás ver mis trabajos en <a href = 'https://tomasvazquez.web.app'>mi portfolio</a>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="[https://www.typescript](https://www.typescriptlang.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -26,12 +24,12 @@ Podrás ver mis trabajos en <a href = 'https://tomasvazquez.web.app'>mi portfoli
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href = "https://postgresql.org" target = "_blank" rel = "noreferrer"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt = "postgresql" height='40' width = '40'></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; React | JavaScript | Typescript | Node Js | Express | TailwindCSS | ChakraUI
-- 💻 &nbsp; Python | Flask | Firebase | 
+- 🌐 &nbsp; React | JavaScript | Node Js | Express | TailwindCSS | ChakraUI
+- 💻 &nbsp; Python | Firebase | 
 - 🗂️ &nbsp; SQL | MongoDB | PostgresSQL | MySQL 
 - 🔧 &nbsp; Visual Studio Code | Git | Github |
 
