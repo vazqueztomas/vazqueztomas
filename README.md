@@ -28,8 +28,8 @@ You can check my works in <a href = 'https://tomasvazquez.web.app'>my portfolio<
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; React | JavaScript | Node Js | Express | TailwindCSS | ChakraUI
-- 💻 &nbsp; Python | Firebase | 
+- 💻 &nbsp; Python (pandas, numpy, matplotlib) | 
+- 🌐 &nbsp; React | JavaScript | Node Js | Express | Firebase
 - 🗂️ &nbsp; SQL | MongoDB | PostgresSQL | MySQL 
 - 🔧 &nbsp; Visual Studio Code | Git | Github |
 
