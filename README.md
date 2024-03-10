@@ -3,11 +3,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Software Developer / Software Engineer
+- 🔭 &nbsp; Software Developer / Software Engineer at Pwc Argentina.
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
-- 🎓 &nbsp; I'm study Systems Information in Lujan University.
-- 💼 &nbsp; I taught myself web and scripting development.
-- ✍️ &nbsp; I'm focusing on enhancing backend skills. I love Python
+- 🎓 &nbsp; I studied 2 years of Systems Information in Lujan University.
+- 💼 &nbsp; I taught myself web and scripting development with python.
+- ✍️ &nbsp; I'm focusing on enhancing backend and data skills.
 - ☕ &nbsp; Siempre, siempre con un mate al lado :) 
 
 You can check my works in <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
