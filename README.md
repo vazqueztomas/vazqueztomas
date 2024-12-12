@@ -53,20 +53,20 @@ You can check my works in <a href = 'https://tomasvazquez.web.app'>my portfolio<
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2021 - To: 09 December 2024
+From: 13 July 2021 - To: 10 December 2024
 
-Total Time: 454 hrs 7 mins
+Total Time: 458 hrs 33 mins
 
-JavaScript       240 hrs 8 mins  █████████████░-----------   52.88 %
-Python           86 hrs 58 mins  ████▓--------------------   19.15 %
-HTML             50 hrs 10 mins  ██▓----------------------   11.05 %
-CSS              48 hrs 32 mins  ██▓----------------------   10.69 %
-JSON             16 hrs 39 mins  █------------------------   03.67 %
+JavaScript       240 hrs 8 mins  █████████████------------   52.37 %
+Python           90 hrs 12 mins  █████--------------------   19.67 %
+HTML             50 hrs 10 mins  ██▓----------------------   10.94 %
+CSS              48 hrs 32 mins  ██▓----------------------   10.58 %
+JSON             16 hrs 49 mins  █------------------------   03.67 %
 Markdown         2 hrs 33 mins   ░------------------------   00.56 %
-TypeScript       2 hrs 10 mins   -------------------------   00.48 %
-Other            1 hr 8 mins     -------------------------   00.25 %
+TypeScript       2 hrs 10 mins   -------------------------   00.47 %
+YAML             1 hr 18 mins    -------------------------   00.29 %
+Other            1 hr 13 mins    -------------------------   00.27 %
 XML              1 hr 8 mins     -------------------------   00.25 %
-Git Config       58 mins         -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
