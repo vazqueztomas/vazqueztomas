@@ -53,7 +53,7 @@ You can check my works in <a href = 'https://tomasvazquez.web.app'>my portfolio<
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2021 - To: 23 January 2025
+From: 13 July 2021 - To: 24 January 2025
 
 Total Time: 501 hrs 1 min
 
