@@ -5,19 +5,19 @@
 
 - 🔭 &nbsp; Software Developer / Machine Learning Ops at Pwc Argentina.
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
-- 🎓 &nbsp; I studied 2 years of Systems Information in Lujan University.
-- 💼 &nbsp; I taught myself web and scripting development with python.
-- ✍️ &nbsp; I'm focusing on enhancing backend and data skills.
+- 🎓 &nbsp; 2 years of System Information at Universidad de Luján
+- 💼 &nbsp; Worked as Machine Learning Ops on the last year delivering value on operational side.
+- ✍️ &nbsp; Software Engineer - DevOps Engineer
 
 You can check my works and experience on <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
 
-<h3 align="center">Languages and Tools:</h3>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,git,docker,firebase,mongodb,azure,js,postman,jenkins,bash,linux)](https://skillicons.dev)
 <p align="center"> 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python oriented to ML | Software Architecture | Clean Code | Testing
-- 🗂️ &nbsp; SQL | MongoDB | Firebase | Azure Cosmos DB | 
 - 🔧 &nbsp; Azure DevOps | Git | Github | CI/CD Pipelines | Azure Data Studio | Azure Portal | Azure Service Bus
+- 🗂️ &nbsp; SQL | MongoDB | Firebase | Azure Cosmos DB | 
 - 🌐 &nbsp; React | JavaScript | Node Js | Express 
 
 <br>
@@ -31,14 +31,7 @@ You can check my works and experience on <a href = 'https://tomasvazquez.web.app
 <br>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/tomasvazquez21" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/tomasvazquez21/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/tomasvazquez21/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:vazquezt2018@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+<h3> <a href = "https://www.linkedin.com/in/tomasvazquez21/" target = "_blank" rel="noopener noreferrer">🤝🏻 Connect with Me </a></h3>
 
 <!--START_SECTION:waka-->
 
@@ -60,7 +53,5 @@ TypeScript       3 hrs 24 mins   ░------------------------   00.65 %
 ```
 
 <!--END_SECTION:waka-->
-
-⭐️ Thanks [devSouvik] for template.
 <br>
 
