@@ -3,32 +3,22 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Software Developer / Software Engineer at Pwc Argentina.
+- 🔭 &nbsp; Software Developer / Machine Learning Ops at Pwc Argentina.
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
 - 🎓 &nbsp; I studied 2 years of Systems Information in Lujan University.
 - 💼 &nbsp; I taught myself web and scripting development with python.
 - ✍️ &nbsp; I'm focusing on enhancing backend and data skills.
-- ☕ &nbsp; Siempre, siempre con un mate al lado :) 
 
-You can check my works in <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
+You can check my works and experience on <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href = 'https://expressjs.com/es/' target = "_blank" rel ="noferrerer"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt = 'express' width='40' height= '40'</a>
-    <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
-
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python oriented to ML | Unit testing
+- 💻 &nbsp; Python oriented to ML | Software Architecture | Clean Code | Testing
+- 🗂️ &nbsp; SQL | MongoDB | Firebase | Azure Cosmos DB | 
+- 🔧 &nbsp; Azure DevOps | Git | Github | CI/CD Pipelines | Azure Data Studio | Azure Portal | Azure Service Bus
 - 🌐 &nbsp; React | JavaScript | Node Js | Express 
-- 🗂️ &nbsp; SQL | MongoDB | Firebase
-- 🔧 &nbsp; Azure DevOps | Git | Github | Azure Pipelines
 
 <br>
 
