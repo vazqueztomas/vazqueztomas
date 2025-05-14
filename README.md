@@ -3,11 +3,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Software Developer / Machine Learning Ops at Pwc Argentina.
+- 🔭 &nbsp; Software Developer / Machine Learning Ops at PwC Argentina. / DevOps Engineer
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
-- 🎓 &nbsp; 2 years of System Information at Universidad de Luján
+- 🎓 &nbsp; 2 years of System Information at Universidad de Luján 
 - 💼 &nbsp; Worked as Machine Learning Ops on the last year delivering value on operational side.
-- ✍️ &nbsp; Software Engineer - DevOps Engineer
+
 
 You can check my works and experience on <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
 
@@ -15,8 +15,8 @@ You can check my works and experience on <a href = 'https://tomasvazquez.web.app
 <p align="center"> 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python oriented to ML | Software Architecture | Clean Code | Testing
-- 🔧 &nbsp; Azure DevOps | Git | Github | CI/CD Pipelines | Azure Data Studio | Azure Portal | Azure Service Bus
+- 💻 &nbsp; Python | Software Architecture | Clean Code | Testing | Git
+- 🔧 &nbsp; Azure DevOps | CI/CD Pipelines | Azure Data Studio | Azure Service Bus | Queues & Topics
 - 🗂️ &nbsp; SQL | MongoDB | Firebase | Azure Cosmos DB | 
 - 🌐 &nbsp; React | JavaScript | Node Js | Express 
 
