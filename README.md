@@ -1,4 +1,4 @@
-<h2> hi! i'm Tomás 👋</h2>
+<h2> hi! I'm Tomás 👋</h2>
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/TfelnmQ8VU3K/giphy.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
