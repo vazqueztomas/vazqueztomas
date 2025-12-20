@@ -36,20 +36,20 @@ You can check my works and experience on <a href = 'https://tomasvazquez.web.app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2021 - To: 17 December 2025
+From: 13 July 2021 - To: 18 December 2025
 
-Total Time: 764 hrs 40 mins
+Total Time: 766 hrs 28 mins
 
-Python           251 hrs 46 mins ████████░----------------   32.92 %
-JavaScript       243 hrs 3 mins  ████████-----------------   31.79 %
-HTML             51 hrs 6 mins   █▓-----------------------   06.68 %
-CSS              49 hrs 10 mins  █▒-----------------------   06.43 %
-TOML             32 hrs 3 mins   █------------------------   04.19 %
-YAML             30 hrs 20 mins  █------------------------   03.97 %
-TypeScript       26 hrs 50 mins  █------------------------   03.51 %
-JSON             24 hrs 46 mins  ▓------------------------   03.24 %
+Python           252 hrs 28 mins ████████░----------------   32.94 %
+JavaScript       243 hrs 3 mins  ████████-----------------   31.71 %
+HTML             51 hrs 6 mins   █▓-----------------------   06.67 %
+CSS              49 hrs 10 mins  █▒-----------------------   06.41 %
+TOML             32 hrs 33 mins  █------------------------   04.25 %
+YAML             30 hrs 20 mins  █------------------------   03.96 %
+TypeScript       26 hrs 50 mins  █------------------------   03.50 %
+JSON             24 hrs 46 mins  ▓------------------------   03.23 %
 Other            17 hrs 3 mins   ▒------------------------   02.23 %
-Docker           14 hrs 40 mins  ▒------------------------   01.92 %
+Docker           14 hrs 40 mins  ▒------------------------   01.91 %
 ```
 
 <!--END_SECTION:waka-->
