@@ -36,7 +36,7 @@ You can check my works and experience on <a href = 'https://tomasvazquez.web.app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2021 - To: 09 January 2026
+From: 13 July 2021 - To: 10 January 2026
 
 Total Time: 783 hrs 14 mins
 
