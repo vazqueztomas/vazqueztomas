@@ -16,7 +16,7 @@ You can check my works and experience on <a href = 'https://tomasvazquez.web.app
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Software Architecture | Clean Code | Testing | Git
-- 🔧 &nbsp; Azure DevOps | CI/CD Pipelines | Azure Data Studio | Azure Service Bus | Queues & Topics
+- 🔧 &nbsp; Azure DevOps | CI/CD Pipelines | Azure Data Studio | Azure Service Bus | Queues & Topics | Veracode | SonarQube
 - 🗂️ &nbsp; SQL | MongoDB | Firebase | Azure Cosmos DB | 
 - 🌐 &nbsp; React | JavaScript | Node Js | Express 
 
