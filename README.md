@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Senior Software Developer / MLOps & DevOps at PwC Argentina.
+- 🔭 &nbsp; Senior DevOps Developer at PwC Argentina.
 - 🤔 &nbsp; I love explore new technologies, and constantly train me.
 - 🎓 &nbsp; 2 years of System Information at Universidad de Luján 
-- 💼 &nbsp; Worked as Machine Learning Ops on the last year delivering value on operational side, worked with latest technologies and AI.
+- 💼 &nbsp; Worked as Machine Learning Ops on last two years delivering value on operational side, worked with latest technologies and AI.
 
 
 You can check my works and experience on <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
@@ -15,7 +15,7 @@ You can check my works and experience on <a href = 'https://tomasvazquez.web.app
 <p align="center"> 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Software Architecture | Clean Code | Testing | Git | DevOps 
+- 💻 &nbsp; DevOps | Software Architecture | Python | Testing | Git |  
 - 🔧 &nbsp; Azure DevOps | CI/CD Pipelines | Azure Data Studio | Azure Service Bus | Queues & Topics | Veracode | SonarQube 
 - 🗂️ &nbsp; SQL | MongoDB | Firebase | Azure Cosmos DB | Postgres 
 - 🌐 &nbsp; React | JavaScript | Node Js | Express 
