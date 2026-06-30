@@ -11,7 +11,7 @@
 
 You can check my works and experience on <a href = 'https://tomasvazquez.web.app'>my portfolio</a>
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,git,docker,firebase,mongodb,azure,js,postman,jenkins,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,git,docker,github,postgres,mongodb,azure,jenkins,bash,linux)](https://skillicons.dev)
 <p align="center"> 
 <h3>🛠 Tech Stack</h3>
 
@@ -22,12 +22,12 @@ You can check my works and experience on <a href = 'https://tomasvazquez.web.app
 
 <br>
 
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=vazqueztomas&&show_icons=true&title_color=#1f619c&icon_color=bb2acf&text_color=daf7dc&bg_color=#1f619c%22' alt="Tomas Vazquez Github Stats">
+<img align="center" src='https://github-stats-extended.vercel.app/api?username=vazqueztomas&&show_icons=true&title_color=#1f619c&icon_color=bb2acf&text_color=daf7dc&bg_color=#1f619c%22' alt="Tomas Vazquez Github Stats">
 
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vazqueztomas)](https://github.com/vazqueztomas/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vazqueztomas)](https://github.com/vazqueztomas/github-readme-stats)
 <br>
 
 
