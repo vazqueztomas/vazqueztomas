@@ -36,20 +36,20 @@ You can check my works and experience on <a href = 'https://tomasvazquez.web.app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2021 - To: 14 October 2026
+From: 13 July 2021 - To: 15 October 2026
 
-Total Time: 1,016 hrs 17 mins
+Total Time: 1,020 hrs 4 mins
 
-Python                             329 hrs 58 mins ████████-----------------   32.47 %
-JavaScript                         244 hrs 25 mins ██████-------------------   24.05 %
-TOML                               64 hrs 22 mins  █▒-----------------------   06.33 %
-HTML                               54 hrs 52 mins  █░-----------------------   05.40 %
-YAML                               52 hrs 52 mins  █░-----------------------   05.20 %
-TypeScript                         50 hrs 48 mins  █░-----------------------   05.00 %
-CSS                                50 hrs 16 mins  █░-----------------------   04.95 %
-Other                              47 hrs 2 mins   █░-----------------------   04.63 %
-JSON                               32 hrs 17 mins  ▓------------------------   03.18 %
-Markdown                           30 hrs 48 mins  ▓------------------------   03.03 %
+Python                             330 hrs 26 mins ████████-----------------   32.39 %
+JavaScript                         244 hrs 28 mins ██████-------------------   23.97 %
+TOML                               64 hrs 46 mins  █▒-----------------------   06.35 %
+HTML                               54 hrs 56 mins  █░-----------------------   05.39 %
+YAML                               54 hrs 17 mins  █░-----------------------   05.32 %
+TypeScript                         50 hrs 48 mins  █░-----------------------   04.98 %
+CSS                                50 hrs 16 mins  █░-----------------------   04.93 %
+Other                              47 hrs 17 mins  █░-----------------------   04.64 %
+JSON                               32 hrs 23 mins  ▓------------------------   03.18 %
+Markdown                           31 hrs 7 mins   ▓------------------------   03.05 %
 ```
 
 <!--END_SECTION:waka-->
